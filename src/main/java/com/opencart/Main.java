@@ -2,8 +2,16 @@ package com.opencart;
 
 
 import com.opencart.managers.RandomDataManager;
+
 import org.openqa.selenium.*;
 import com.opencart.managers.DriverManager;
+=======
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import com.opencart.managers.DriverManager;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WindowType;
+
 
 
 public class Main {
@@ -14,12 +22,20 @@ public class Main {
         String currentWindowName = driver.getWindowHandle();
         //New window Code
         driver.switchTo().newWindow(WindowType.TAB);
+
         driver.get("http://andreisecuqa.host/");
         Thread.sleep(1000);
 
         WebElement myAccountIcon = driver.findElement(By.xpath("//i[@class='fa-solid fa-user']"));
         myAccountIcon.click();
         WebElement registerOption = driver.findElement(By.xpath("//a[normalize-space()='Register']"));
+
+        driver.get("https://opencart.antropy.co.uk/");
+        Thread.sleep(1000);
+        WebElement myAccountIcon = driver.findElement(By.xpath("//i[@class='fa fa-user']"));
+        myAccountIcon.click();
+        WebElement registerOption = driver.findElement(By.xpath("//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Register']"));
+
         registerOption.click();
 
         System.out.println(driver.getCurrentUrl());
@@ -39,10 +55,16 @@ public class Main {
 
 
 
+
+        WebElement phoneInput = driver.findElement(By.cssSelector("#input-telephone"));
+        phoneInput.sendKeys("069197980");
+
+
         WebElement passwordInput = driver.findElement(By.cssSelector("#input-password"));
         String password = RandomDataManager.generatePassword();
         passwordInput.sendKeys(password);
         System.out.println(password);
+
 
 
 
@@ -57,6 +79,15 @@ public class Main {
         termsAndConditionsToggleBar.click();
 
         WebElement registerButton = driver.findElement(By.cssSelector("button[type='submit']"));
+
+        WebElement confirmPasswordInput = driver.findElement(By.cssSelector("#input-confirm"));
+        confirmPasswordInput.sendKeys(password);
+
+
+        WebElement termsCheckbox = driver.findElement(By.xpath("//input[@name='agree']"));
+        termsCheckbox.click();
+
+        WebElement registerButton = driver.findElement(By.xpath("//input[@value='Continue']"));
         registerButton.click();
 
 
