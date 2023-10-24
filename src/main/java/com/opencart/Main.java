@@ -1,11 +1,7 @@
 package com.opencart;
-
-
 import com.opencart.managers.RandomDataManager;
-
 import org.openqa.selenium.*;
 import com.opencart.managers.DriverManager;
-=======
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import com.opencart.managers.DriverManager;
@@ -30,12 +26,6 @@ public class Main {
         myAccountIcon.click();
         WebElement registerOption = driver.findElement(By.xpath("//a[normalize-space()='Register']"));
 
-        driver.get("https://opencart.antropy.co.uk/");
-        Thread.sleep(1000);
-        WebElement myAccountIcon = driver.findElement(By.xpath("//i[@class='fa fa-user']"));
-        myAccountIcon.click();
-        WebElement registerOption = driver.findElement(By.xpath("//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Register']"));
-
         registerOption.click();
 
         System.out.println(driver.getCurrentUrl());
@@ -54,8 +44,6 @@ public class Main {
         System.out.println(randomEmail);
 
 
-
-
         WebElement phoneInput = driver.findElement(By.cssSelector("#input-telephone"));
         phoneInput.sendKeys("069197980");
 
@@ -64,12 +52,6 @@ public class Main {
         String password = RandomDataManager.generatePassword();
         passwordInput.sendKeys(password);
         System.out.println(password);
-
-
-
-
-
-
 
 
         WebElement termsAndConditionsToggleBar = driver.findElement(By.cssSelector("input[value='1'][name='agree']"));
@@ -87,8 +69,7 @@ public class Main {
         WebElement termsCheckbox = driver.findElement(By.xpath("//input[@name='agree']"));
         termsCheckbox.click();
 
-        WebElement registerButton = driver.findElement(By.xpath("//input[@value='Continue']"));
-        registerButton.click();
+
 
 
         Thread.sleep(1000);
