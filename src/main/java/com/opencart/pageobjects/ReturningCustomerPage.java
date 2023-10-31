@@ -16,7 +16,7 @@ public class ReturningCustomerPage extends Page {
     @FindBy(xpath = "//input[@id='input-password']")
     WebElement inputPassword;
 
-    @FindBy(xpath = "//button[@type='submit']")
+    @FindBy(xpath = "//button[normalize-space()='Login']")
     WebElement loginButton;
 
     public void fillInLoginForm(String email, String password) {
