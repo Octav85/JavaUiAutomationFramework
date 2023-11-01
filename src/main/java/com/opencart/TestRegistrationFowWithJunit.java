@@ -25,7 +25,7 @@ public class TestRegistrationFowWithJunit {
     public void executeCodeBeforeEachTest() {
         System.out.println("the code is executed before each test case");
         driver = DriverManager.getInstance().getDriver();
-        driver.get("http://andreisecuqa.host/");
+        driver.get("https://andreisecuqa.host/");
         homePage = new HomePage(driver);
         registerPage = new RegisterPage(driver);
         homePage.navigateToRegisterPageFromHeader();
