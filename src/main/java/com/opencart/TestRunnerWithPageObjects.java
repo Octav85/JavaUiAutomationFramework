@@ -6,7 +6,7 @@ import com.opencart.managers.RandomDataManager;
 import com.opencart.pageobjects.ExistingAccountPage;
 import com.opencart.pageobjects.HomePage;
 import com.opencart.pageobjects.RegisterPage;
-import com.opencart.pageobjects.ReturningCustomerPage;
+import com.opencart.pageobjects.LoginPage;
 import org.openqa.selenium.*;
 
 
@@ -43,7 +43,7 @@ public class TestRunnerWithPageObjects {
 //        je.executeScript("arguments[0].scrollIntoView(true);" , termsAndConditionsToggleBar);
 //        Thread.sleep(1000);
 //        termsAndConditionsToggleBar.click();
-        registerPage.clickTheContinueButton();
+
 
  // Existing account logout
         Thread.sleep(500);
@@ -52,10 +52,9 @@ public class TestRunnerWithPageObjects {
         System.out.println("Logout successful");
 
 
-        ReturningCustomerPage loginPage = new ReturningCustomerPage(driver);
+        LoginPage loginPage = new LoginPage(driver);
         loginPage.navigateToLoginPageFromHeader();
         loginPage.fillInLoginForm(randomEmail,password);
-        loginPage.clickTheLoginButton();
         Thread.sleep(500);
 
 

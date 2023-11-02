@@ -24,7 +24,7 @@ public class RegisterPage extends Page {
     @FindBy(xpath = "//input[@name='agree']" )
     private WebElement privacyToggle;
 
-    @FindBy(xpath = "//button[normalize-space()='Continue']" )
+    @FindBy(css = "button[type='submit")
     private WebElement continueBtn;
 
 
@@ -39,7 +39,5 @@ public class RegisterPage extends Page {
             privacyToggle.click();
         }
     }
-    public void clickTheContinueButton(){
-        continueBtn.click();
-    }
+
 }

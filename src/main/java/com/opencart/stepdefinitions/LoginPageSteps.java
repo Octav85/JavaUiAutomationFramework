@@ -1,14 +1,12 @@
 package com.opencart.stepdefinitions;
-import com.opencart.pageobjects.ReturningCustomerPage;
+import com.opencart.pageobjects.LoginPage;
 import com.opencart.managers.DriverManager;
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 import java.util.List;
 
 public class LoginPageSteps {
-    private ReturningCustomerPage loginPage = new ReturningCustomerPage(DriverManager.getInstance().getDriver());
+    private LoginPage loginPage = new LoginPage(DriverManager.getInstance().getDriver());
 
 
     @When("the login form is populated with following details:")
@@ -17,9 +15,5 @@ public class LoginPageSteps {
     }
 
 
-    @And("the Login button is clicked")
-    public void theLoginButtonIsClicked() throws InterruptedException {
-        Thread.sleep(1000);
-        loginPage.clickTheLoginButton();
-    }
+
 }

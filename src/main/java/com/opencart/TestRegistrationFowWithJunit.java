@@ -46,7 +46,7 @@ public class TestRegistrationFowWithJunit {
         System.out.println(password);
 
         registerPage.fillInRegisterForm(RandomDataManager.generateFirstName(), RandomDataManager.generateLastName(), randomEmail, password, true);
-        registerPage.clickTheContinueButton();
+
         Thread.sleep(500);
         String currentUrl = driver.getCurrentUrl();
 
@@ -72,7 +72,7 @@ public class TestRegistrationFowWithJunit {
 
 
         registerPage.fillInRegisterForm(RandomDataManager.generateFirstName(), RandomDataManager.generateLastName(), randomEmail,"1", true);
-        registerPage.clickTheContinueButton();
+
         Thread.sleep(500);
         String actualUrl = driver.getCurrentUrl();
         String expectedUrl = "https://andreisecuqa.host/index.php?route=account/register&language=en-gb";
@@ -94,7 +94,7 @@ public class TestRegistrationFowWithJunit {
 
 
         registerPage.fillInRegisterForm(RandomDataManager.generateFirstName(), RandomDataManager.generateLastName(), randomEmail, "Aa1", true);
-        registerPage.clickTheContinueButton();
+
         Thread.sleep(500);
 
         String expectedErrorMessageForInvalidPassword = "Password must be between 4 and 20 characters!";
