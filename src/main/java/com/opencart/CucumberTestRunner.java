@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = "src/main/java/com/opencart/features",
         glue = "com.opencart.stepdefinitions",
         tags = "",
-        plugin = {"pretty", "html:target/cucumber/reports"}
+        plugin = {"pretty", "html:target/cucumber-reports/cucumber.html", "json:target/cucumber-reports/cucumber.json" }
 )
 
 public class CucumberTestRunner {
