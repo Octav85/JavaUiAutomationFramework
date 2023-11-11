@@ -1,0 +1,332 @@
+2023-11-07 19:24:05,547 INFO c.o.s.Hooks [main] The test execution started
+2023-11-07 19:24:06,449 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:24:27,511 INFO c.o.m.DriverManager [main] The Chrome driver was initiated
+2023-11-07 19:24:29,766 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 19:24:30,394 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 19:24:32,516 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 19:24:34,921 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:24:34,976 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:24:37,136 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 19:24:37,474 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 19:24:38,921 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 19:24:41,031 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:24:41,226 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:24:42,458 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 19:24:42,745 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dshaf4jasf]
+2023-11-07 19:24:44,710 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 19:24:47,221 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:24:47,250 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:24:48,012 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 19:24:48,362 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dtereyhgh]
+2023-11-07 19:24:50,116 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 19:24:52,201 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:24:52,545 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:24:56,945 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:24:56,993 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:25:01,636 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Beatty]
+2023-11-07 19:25:01,952 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Dickinson]
+2023-11-07 19:25:02,640 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [lino.lowe@hotmail.com]
+2023-11-07 19:25:02,995 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [cfwycyalgsqwot2]
+2023-11-07 19:25:04,415 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 19:25:05,791 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 19:25:08,007 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:25:08,027 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:25:08,707 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Reichert]
+2023-11-07 19:25:09,012 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Gaylord]
+2023-11-07 19:25:09,433 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [douglas.mcglynn@hotmail.com]
+2023-11-07 19:25:09,896 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [2hpxubsvn9]
+2023-11-07 19:25:11,987 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:25:12,013 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:25:12,755 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [1213146478997735598887897787217564]
+2023-11-07 19:25:12,969 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Swift]
+2023-11-07 19:25:13,289 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [charlie.leannon@gmail.com]
+2023-11-07 19:25:13,519 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Rodriguez]
+2023-11-07 19:25:14,908 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 19:25:16,271 INFO c.o.s.GenericSteps [main] The element Continueis clicked
+2023-11-07 19:25:18,412 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:25:18,607 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 19:25:19,756 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [firstName]
+2023-11-07 19:25:20,240 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [12131464789977355988877287742121121]
+2023-11-07 19:25:20,750 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [shon.emmerich@gmail.com]
+2023-11-07 19:25:20,998 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Yost]
+2023-11-07 19:25:22,286 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 19:25:23,557 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 19:25:25,664 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 19:25:29,233 WARN c.o.m.DriverManager [main] The driver is null
+2023-11-07 19:25:29,235 INFO c.o.s.Hooks [main] The test execution has been finished
+2023-11-07 20:04:06,862 INFO c.o.s.Hooks [main] The test execution started
+2023-11-07 20:04:07,506 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:04:20,094 INFO c.o.m.DriverManager [main] The Chrome driver was initiated
+2023-11-07 20:04:25,232 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:04:25,758 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 20:04:25,904 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:04:26,174 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 20:04:26,408 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:04:27,323 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:04:29,744 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:04:29,975 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:04:30,704 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:04:31,117 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 20:04:31,222 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:04:31,501 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 20:04:31,685 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:04:32,534 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:04:34,622 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:04:34,896 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:04:35,311 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:04:35,560 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 20:04:35,673 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:04:35,913 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dshaf4jasf]
+2023-11-07 20:04:36,113 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:04:37,294 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:04:39,381 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:04:39,408 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:04:39,923 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:04:40,324 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 20:04:40,457 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:04:40,743 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dtereyhgh]
+2023-11-07 20:04:41,016 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:04:42,041 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:04:44,081 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:04:44,134 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:04:46,222 INFO c.o.s.HomePageSteps [main] The register link has been accessed from the Header menu
+2023-11-07 20:04:48,387 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:04:48,465 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:04:49,872 INFO c.o.s.HomePageSteps [main] The register link has been accessed from the Header menu
+2023-11-07 20:04:50,830 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:04:51,112 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Glover]
+2023-11-07 20:04:51,228 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:04:51,422 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Lowe]
+2023-11-07 20:04:51,719 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:04:52,072 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [loyd.klein@hotmail.com]
+2023-11-07 20:04:52,191 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:04:52,485 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [g0kna474g168ody]
+2023-11-07 20:04:52,655 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:04:53,424 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:04:53,599 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:04:54,788 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:04:57,101 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:04:57,162 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:04:58,005 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:04:58,199 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Braun]
+2023-11-07 20:04:58,303 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:04:58,491 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Hamill]
+2023-11-07 20:04:58,609 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:04:58,877 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [billy.schroeder@gmail.com]
+2023-11-07 20:04:58,986 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:04:59,195 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [1jy05rjsza]
+2023-11-07 20:05:01,316 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:05:01,386 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:05:02,025 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:05:02,400 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [1213146478997735598887897787217564]
+2023-11-07 20:05:02,544 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:05:02,725 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Hagenes]
+2023-11-07 20:05:02,839 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:05:03,165 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [danelle.nikolaus@yahoo.com]
+2023-11-07 20:05:03,263 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:05:03,444 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Spinka]
+2023-11-07 20:05:03,594 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:05:04,309 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:05:04,465 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:05:05,676 INFO c.o.s.GenericSteps [main] The element Continueis clicked
+2023-11-07 20:05:08,032 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:05:08,097 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:05:08,735 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:05:09,003 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [firstName]
+2023-11-07 20:05:09,102 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:05:09,404 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [12131464789977355988877287742121121]
+2023-11-07 20:05:09,496 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:05:09,777 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [leora.bernier@gmail.com]
+2023-11-07 20:05:09,878 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:05:10,080 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Kovacek]
+2023-11-07 20:05:10,225 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:05:11,434 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:05:11,777 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:05:12,734 INFO c.o.s.GenericSteps [main] The element Continueis clicked
+2023-11-07 20:05:15,144 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:05:16,542 WARN c.o.m.DriverManager [main] The driver is null
+2023-11-07 20:05:16,544 INFO c.o.s.Hooks [main] The test execution has been finished
+2023-11-07 20:08:57,545 INFO c.o.s.Hooks [main] The test execution started
+2023-11-07 20:08:58,413 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:10,160 INFO c.o.m.DriverManager [main] The Chrome driver was initiated
+2023-11-07 20:09:12,688 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:09:13,615 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 20:09:13,917 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:09:14,315 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 20:09:14,545 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:09:15,734 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:09:19,403 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:09:19,519 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:20,631 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:09:21,114 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 20:09:21,239 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:09:21,541 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 20:09:21,879 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:09:23,047 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:09:25,165 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:09:25,197 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:25,732 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:09:26,278 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 20:09:26,453 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:09:27,032 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dshaf4jasf]
+2023-11-07 20:09:27,270 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:09:28,148 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:09:30,234 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:09:30,266 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:30,708 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:09:31,122 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 20:09:31,230 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:09:31,517 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dtereyhgh]
+2023-11-07 20:09:31,835 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:09:32,645 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:09:34,709 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:09:34,894 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:37,049 INFO c.o.s.HomePageSteps [main] The register link has been accessed from the Header menu
+2023-11-07 20:09:39,210 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:09:39,242 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:40,951 INFO c.o.s.HomePageSteps [main] The register link has been accessed from the Header menu
+2023-11-07 20:09:41,924 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:09:42,289 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Windler]
+2023-11-07 20:09:42,468 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:09:42,759 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Kuhlman]
+2023-11-07 20:09:43,221 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:09:43,831 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [agatha.murray@hotmail.com]
+2023-11-07 20:09:44,057 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:09:44,278 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [peca0avqdtcbsd]
+2023-11-07 20:09:44,470 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:09:45,269 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:09:45,451 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:09:46,679 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:09:48,783 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:09:48,917 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:49,708 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:09:50,083 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Barrows]
+2023-11-07 20:09:50,201 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:09:50,397 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Schulist]
+2023-11-07 20:09:50,575 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:09:50,886 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [beau.konopelski@gmail.com]
+2023-11-07 20:09:51,048 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:09:51,335 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [qen4u219ai4aua9]
+2023-11-07 20:09:53,397 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:09:53,505 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:09:54,292 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:09:54,607 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [1213146478997735598887897787217564]
+2023-11-07 20:09:54,755 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:09:55,022 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Koepp]
+2023-11-07 20:09:55,179 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:09:55,438 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [laurence.mckenzie@yahoo.com]
+2023-11-07 20:09:55,538 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:09:55,724 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Nolan]
+2023-11-07 20:09:55,897 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:09:57,074 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:09:57,389 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:09:58,547 INFO c.o.s.GenericSteps [main] The element Continueis clicked
+2023-11-07 20:10:00,962 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:10:01,144 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:10:01,672 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:10:01,903 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [firstName]
+2023-11-07 20:10:02,038 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:10:02,445 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [12131464789977355988877287742121121]
+2023-11-07 20:10:02,534 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:10:02,837 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [stacia.schaden@hotmail.com]
+2023-11-07 20:10:02,932 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:10:03,170 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Romaguera]
+2023-11-07 20:10:03,317 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:10:04,519 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:10:04,744 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:10:05,766 INFO c.o.s.GenericSteps [main] The element Continueis clicked
+2023-11-07 20:10:08,097 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:10:09,402 WARN c.o.m.DriverManager [main] The driver is null
+2023-11-07 20:10:09,403 INFO c.o.s.Hooks [main] The test execution has been finished
+2023-11-07 20:11:25,350 INFO c.o.s.Hooks [main] The test execution started
+2023-11-07 20:11:26,146 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:11:38,905 INFO c.o.m.DriverManager [main] The Chrome driver was initiated
+2023-11-07 20:11:42,729 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:11:43,239 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 20:11:43,408 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:11:43,634 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 20:11:43,917 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:11:44,970 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:11:47,155 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:11:47,186 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:11:47,728 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:11:48,126 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 20:11:48,239 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:11:48,490 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [The Password!1]
+2023-11-07 20:11:48,680 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:11:49,475 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:11:51,738 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:11:52,021 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:11:52,594 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:11:52,887 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [kotovan85@yahoo.com]
+2023-11-07 20:11:53,024 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:11:53,223 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dshaf4jasf]
+2023-11-07 20:11:53,405 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:11:54,567 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:11:56,835 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:11:57,056 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:11:57,757 INFO c.o.m.ExplicitWaitManager [main] The element is visibleE-Mail Address
+2023-11-07 20:11:58,189 INFO c.o.s.GenericSteps [main] The data [inputEmail] is populated with [plopaoctavian22@yahoo.com]
+2023-11-07 20:11:58,314 INFO c.o.m.ExplicitWaitManager [main] The element is visiblePassword
+2023-11-07 20:11:58,631 INFO c.o.s.GenericSteps [main] The data [inputPassword] is populated with [dtereyhgh]
+2023-11-07 20:11:58,824 INFO c.o.m.ExplicitWaitManager [main] The element is clickableLogin
+2023-11-07 20:11:59,763 INFO c.o.s.GenericSteps [main] The element Loginis clicked
+2023-11-07 20:12:01,834 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:12:02,224 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:12:05,571 INFO c.o.s.HomePageSteps [main] The register link has been accessed from the Header menu
+2023-11-07 20:12:07,631 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:12:07,669 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:12:09,050 INFO c.o.s.HomePageSteps [main] The register link has been accessed from the Header menu
+2023-11-07 20:12:11,574 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:12:11,930 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Boyer]
+2023-11-07 20:12:12,166 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:12:12,437 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Hoeger]
+2023-11-07 20:12:12,833 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:12:13,172 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [dave.ullrich@gmail.com]
+2023-11-07 20:12:13,285 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:12:13,511 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [9vm2qrnl]
+2023-11-07 20:12:13,680 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:12:14,583 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:12:14,861 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:12:15,647 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:12:17,699 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:12:17,718 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:12:18,252 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:12:18,542 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [Vandervort]
+2023-11-07 20:12:18,650 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:12:18,863 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Cormier]
+2023-11-07 20:12:19,044 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:12:19,328 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [benjamin.huels@hotmail.com]
+2023-11-07 20:12:19,429 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:12:19,648 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [dvbacyyfd]
+2023-11-07 20:12:21,687 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:12:21,706 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:12:22,198 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:12:22,571 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [1213146478997735598887897787217564]
+2023-11-07 20:12:22,669 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:12:22,861 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [Brakus]
+2023-11-07 20:12:23,005 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:12:23,256 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [cayla.weber@gmail.com]
+2023-11-07 20:12:23,365 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:12:23,564 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Boyle]
+2023-11-07 20:12:23,741 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:12:24,519 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:12:24,704 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:12:25,484 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:12:27,583 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:12:27,599 INFO c.o.s.Hooks [main] A new test execution started
+2023-11-07 20:12:28,077 INFO c.o.m.ExplicitWaitManager [main] The element is visible* First Name
+2023-11-07 20:12:28,293 INFO c.o.s.GenericSteps [main] The data [firstNameInput] is populated with [firstName]
+2023-11-07 20:12:28,404 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Last Name
+2023-11-07 20:12:28,800 INFO c.o.s.GenericSteps [main] The data [lastNameInput] is populated with [12131464789977355988877287742121121]
+2023-11-07 20:12:28,906 INFO c.o.m.ExplicitWaitManager [main] The element is visible* E-Mail
+2023-11-07 20:12:29,278 INFO c.o.s.GenericSteps [main] The data [emailInput] is populated with [garrett.schumm@gmail.com]
+2023-11-07 20:12:29,377 INFO c.o.m.ExplicitWaitManager [main] The element is visible* Password
+2023-11-07 20:12:29,608 INFO c.o.s.GenericSteps [main] The data [passwordInput] is populated with [Ankunding]
+2023-11-07 20:12:29,775 INFO c.o.m.ExplicitWaitManager [main] The element is clickable
+2023-11-07 20:12:30,525 INFO c.o.s.GenericSteps [main] The element is clicked
+2023-11-07 20:12:30,686 INFO c.o.m.ExplicitWaitManager [main] The element is clickableContinue
+2023-11-07 20:12:31,447 INFO c.o.s.GenericSteps [main] The element Continueis clicked
+2023-11-07 20:12:33,552 INFO c.o.s.Hooks [main] A test execution just finished
+2023-11-07 20:12:34,860 WARN c.o.m.DriverManager [main] The driver is null
+2023-11-07 20:12:34,862 INFO c.o.s.Hooks [main] The test execution has been finished
